@@ -1,0 +1,65 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Grandista.ttf",
+      "sha1": "0ef94fd8a98a2907309e3d99951bf35b91130436"
+    },
+    {
+      "path": "src/assets/fonts/LobsterTwo-Bold.ttf",
+      "sha1": "22d16751379386a58202275f3cfcf9e51bc32a80"
+    },
+    {
+      "path": "src/assets/fonts/LobsterTwo-BoldItalic.ttf",
+      "sha1": "7191e615e73f4780d951913f1a90fd0ea5a0deac"
+    },
+    {
+      "path": "src/assets/fonts/LobsterTwo-Italic.ttf",
+      "sha1": "ec156cb8233328a591257a69bfa6ba99b2a0cd5f"
+    },
+    {
+      "path": "src/assets/fonts/LobsterTwo-Regular.ttf",
+      "sha1": "1f9ffb9981ee8cc365b1ab1f1370421d62a36301"
+    },
+    {
+      "path": "src/assets/fonts/Nunito-Bold.ttf",
+      "sha1": "d8091536d0fab37a3239067f708a0221070835da"
+    },
+    {
+      "path": "src/assets/fonts/Nunito-Italic.ttf",
+      "sha1": "8bd20205f1cfac7715f5f0f945cbd745c2709c80"
+    },
+    {
+      "path": "src/assets/fonts/Nunito-Medium.ttf",
+      "sha1": "941255b6a8c1e2d286ed9613bd6b354e2423dad9"
+    },
+    {
+      "path": "src/assets/fonts/Nunito-Regular.ttf",
+      "sha1": "465c464793593babb53e51e2a56562cdd79c237d"
+    },
+    {
+      "path": "src/assets/fonts/Pacifico-Regular.ttf",
+      "sha1": "baca1fca7fe74b61cb33aa0da48ec1a3a77bcf49"
+    },
+    {
+      "path": "src/assets/fonts/RobotoMono-Bold.ttf",
+      "sha1": "9155bb87dab4ebc84ad4dffd69051e3dd33b73c0"
+    },
+    {
+      "path": "src/assets/fonts/RobotoMono-Light.ttf",
+      "sha1": "3622747c6fd05b5ea95ef8d5e0e45ba217b59631"
+    },
+    {
+      "path": "src/assets/fonts/RobotoMono-Medium.ttf",
+      "sha1": "c86b835df1f911c6fa48b0e28f9f3fe80b981f13"
+    },
+    {
+      "path": "src/assets/fonts/RobotoMono-Regular.ttf",
+      "sha1": "c25a072c96240ab8fc288b61edf2bb133aaa975d"
+    },
+    {
+      "path": "src/assets/fonts/RobotoMono-SemiBold.ttf",
+      "sha1": "3e27af4808640005903a8791831e78ef177189a2"
+    }
+  ]
+}
